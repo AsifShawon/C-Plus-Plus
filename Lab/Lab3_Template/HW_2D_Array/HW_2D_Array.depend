@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666800473 source:d:\c++\lab\lab3_template\hw_2d_array\main.cpp
+	<iostream>
+	"Matrix.h"
+	"src/Matrix.cpp"
+
+1666800311 d:\c++\lab\lab3_template\hw_2d_array\include\matrix.h
+
+1666800663 d:\c++\lab\lab3_template\hw_2d_array\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
+1666800663 source:d:\c++\lab\lab3_template\hw_2d_array\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+
