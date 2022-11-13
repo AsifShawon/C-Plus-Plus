@@ -68,6 +68,8 @@ void UnsortedType<ItemType>::InsertItem(ItemType  item)
     length++;
 }
 
+// to insert at the end of the list
+
 template<class ItemType>
 void UnsortedType<ItemType>::InsertItemEnd(ItemType item)
 {
