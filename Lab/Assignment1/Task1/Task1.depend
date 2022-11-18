@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668447720 source:d:\c++\lab\assignment1\task1\unsortedtype1.cpp
+	"UnsortedType1.h"
+	<iostream>
+
+1668446522 d:\c++\lab\assignment1\task1\unsortedtype1.h
+
+1668749316 source:d:\c++\lab\assignment1\task1\task1_main.cpp
+	<iostream>
+	"UnsortedType1.h"
+	"UnsortedType1.cpp"
+
+1668447720 d:\c++\lab\assignment1\task1\unsortedtype1.cpp
+	"UnsortedType1.h"
+	<iostream>
+

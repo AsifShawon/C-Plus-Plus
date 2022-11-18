@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668790349 source:d:\c++\lab\assignment1\task3\main.cpp
+	<iostream>
+	"timeStamp.h"
+
+1668790497 source:d:\c++\lab\assignment1\task3\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1668789781 d:\c++\lab\assignment1\task3\timestamp.h
+
