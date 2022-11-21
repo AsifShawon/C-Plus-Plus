@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1669051280 source:d:\c++\lab\assignment1\task2_linkedlist\main.cpp
+	<iostream>
+	"studentInfo.h"
+	<string>
+
+1669050731 d:\c++\lab\assignment1\task2_linkedlist\studentinfo.h
+	<string>
+
+1669051310 source:d:\c++\lab\assignment1\task2_linkedlist\studentinfo.cpp
+	"studentInfo.h"
+	<iostream>
+	<string>
+
