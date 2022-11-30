@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669828943 source:d:\c++\lab\lab09_queue_array\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1669828773 d:\c++\lab\lab09_queue_array\quetype.h
+
